@@ -1,0 +1,7 @@
+User32.*
+Kernel32.*
+GetDpiForMonitor
+MonitorFromPoint
+GetStdHandle
+SetProcessDpiAwareness
+AllocConsole

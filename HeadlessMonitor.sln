@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeadlessMonitor", "HeadlessMonitor\HeadlessMonitor.csproj", "{EC89BB52-E47A-41E9-9D42-0F3A02B1219E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC89BB52-E47A-41E9-9D42-0F3A02B1219E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC89BB52-E47A-41E9-9D42-0F3A02B1219E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC89BB52-E47A-41E9-9D42-0F3A02B1219E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC89BB52-E47A-41E9-9D42-0F3A02B1219E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65DD716D-0372-4EFE-8DEB-BD1EEEF40E0B}
+	EndGlobalSection
+EndGlobal

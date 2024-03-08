@@ -183,7 +183,7 @@ namespace Screen
         #region Primary screen actions
         public class Actions : PrimaryScreen
         {
-            //Do not use PInvoke for SystemParametersInfo since we need a int paramater instead an uint for uiParam
+            //Do not use PInvoke for SystemParametersInfo since we need a int parameter instead an uint for uiParam
             [DllImport("user32.dll", SetLastError = true)]
             [return: MarshalAs(UnmanagedType.Bool)]
             static extern bool SystemParametersInfo(uint uiAction, int uiParam, IntPtr pvParam, uint fWinIni);

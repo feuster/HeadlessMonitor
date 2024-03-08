@@ -3,6 +3,7 @@
 
 HeadlessMonitor can set a new resolution in a Windows system which is used headless without physical monitor
 
+![HeadlessMonitor Screenshot](./screenshot.png)
 
 ## Usage
 
@@ -25,4 +26,3 @@ Short Argument | Long Argument | Setting
 ## License
 
 HeadlessMonitor is licensed under the [MIT-License](./LICENSE)
-

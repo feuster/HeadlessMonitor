@@ -22,8 +22,8 @@ namespace HeadlessMonitor
 #endif
         private static readonly string AppCopyright = $"© Alexander Feuster 2024";
         private static readonly string AppURL = "https://github.com/feuster/HeadlessMonitor";
-        //GitVersion will be only be actualized/overwritten when using Cake build!
-        private static readonly string GitVersion = "git-54dcdca";
+        //GitVersion will only be actualized/overwritten when using Cake build!
+        private static readonly string GitVersion = "git-d30ead0";
         private static readonly bool   OSPlatformWindows = RuntimeInformation.IsOSPlatform(OSPlatform.Windows);
 
         //Program start

@@ -10,8 +10,8 @@
     <Authors>Alexander Feuster</Authors>
     <Company>Alexander Feuster</Company>
     <Copyright>© Alexander Feuster 2024</Copyright>
-	<FileVersion>1.0.0.0</FileVersion>
-	<AssemblyVersion>1.0.0.0</AssemblyVersion>	
+	<FileVersion>1.0.0.1</FileVersion>
+	<AssemblyVersion>1.0.0.1</AssemblyVersion>	
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
